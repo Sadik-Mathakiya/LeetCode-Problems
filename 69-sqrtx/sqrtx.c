@@ -6,5 +6,5 @@ int mySqrt(int x) {
             
         }
     }
-    return (int)ans;
+    return ans;
 }
